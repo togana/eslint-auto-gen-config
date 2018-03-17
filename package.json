@@ -5,10 +5,13 @@
   "main": "index.js",
   "author": "togana <o.togana@gmail.com>",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "eslint": "^4.19.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.9.0"
-  }
+  },
+  "bin": {
+    "eslint-auto-gen-config": "index.js"
+  },
+  "repository": "git@github.com:togana/eslint-auto-gen-config.git"
 }
