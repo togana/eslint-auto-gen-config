@@ -1,0 +1,9 @@
+{
+  "name": "eslint-auto-gen-config",
+  "version": "0.0.1",
+  "description": "Automatically Generated ESLint Configuration.",
+  "main": "index.js",
+  "author": "togana <o.togana@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
