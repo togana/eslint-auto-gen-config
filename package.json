@@ -1,6 +1,6 @@
 {
   "name": "eslint-auto-gen-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatically Generated ESLint Configuration.",
   "main": "index.js",
   "author": "togana <o.togana@gmail.com>",
