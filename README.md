@@ -14,7 +14,7 @@ $ npm install -g eslint-auto-gen-config
 ## generate todo config
 
 ```
-$ eslint `folder or file` | eslint-auto-gen-config > .eslint.todo.json
+$ eslint `folder or file` | eslint-auto-gen-config > .eslintrc.todo.json
 ```
 
 ## add .eslintrc.json
