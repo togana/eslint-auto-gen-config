@@ -1,17 +1,17 @@
 {
   "name": "eslint-auto-gen-config",
-  "version": "0.1.0",
   "description": "Automatically Generated ESLint Configuration.",
-  "main": "index.js",
+  "version": "0.1.0",
   "author": "togana <o.togana@gmail.com>",
-  "license": "MIT",
+  "bin": {
+    "eslint-auto-gen-config": "index.js"
+  },
   "devDependencies": {
     "eslint": "^4.19.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.9.0"
   },
-  "bin": {
-    "eslint-auto-gen-config": "index.js"
-  },
+  "license": "MIT",
+  "main": "index.js",
   "repository": "git@github.com:togana/eslint-auto-gen-config.git"
 }
