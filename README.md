@@ -3,18 +3,12 @@ eslint-auto-gen-config
 
 Automatically Generated ESLint Configuration.
 
-# Install
-
-```
-$ npm install -g eslint-auto-gen-config
-```
-
 # Usage
 
 ## generate todo config
 
 ```
-$ eslint `folder or file` | eslint-auto-gen-config > .eslintrc.todo.json
+$ eslint `folder or file` | npx eslint-auto-gen-config > .eslintrc.todo.json
 ```
 
 ## add .eslintrc.json
